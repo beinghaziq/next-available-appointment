@@ -7,6 +7,9 @@ This project contains integration with Solvhealth API to get next available appo
 - Integration with google place API
 - CSV data read from URL
 
+  <img width="703" alt="Screenshot 2024-05-23 at 6 30 12 PM" src="https://github.com/beinghaziq/next-available-appointment/assets/72576839/8552ef05-a20e-435e-a735-700690ec0069">
+
+
 # Build With
 
 - Framework: Python 3.11
